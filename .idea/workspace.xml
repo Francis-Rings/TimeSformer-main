@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d775f1f3-10ed-4372-944f-fd6d1691df67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Hw2IljrP0AtG6Ch5U1Q0uSxujt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d775f1f3-10ed-4372-944f-fd6d1691df67" name="Default Changelist" comment="" />
+      <created>1669181747958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669181747958</updated>
+      <workItem from="1669181751507" duration="630000" />
+      <workItem from="1669182472420" duration="11739000" />
+      <workItem from="1669253178419" duration="5000" />
+      <workItem from="1669272822636" duration="78000" />
+      <workItem from="1669280110002" duration="52000" />
+      <workItem from="1669289586438" duration="363000" />
+      <workItem from="1669363291488" duration="84000" />
+      <workItem from="1669363758661" duration="90000" />
+      <workItem from="1669363866115" duration="28000" />
+      <workItem from="1669364182377" duration="105000" />
+      <workItem from="1669364313191" duration="103000" />
+      <workItem from="1669364516781" duration="59000" />
+      <workItem from="1669364748053" duration="18000" />
+      <workItem from="1669366523371" duration="68000" />
+      <workItem from="1669370770268" duration="48000" />
+      <workItem from="1669428014109" duration="997000" />
+      <workItem from="1669962056221" duration="28000" />
+      <workItem from="1670379804912" duration="107000" />
+      <workItem from="1673401993586" duration="1866000" />
+      <workItem from="1673408932403" duration="3129000" />
+      <workItem from="1673422828160" duration="10243000" />
+      <workItem from="1673442434069" duration="40000" />
+      <workItem from="1673490082301" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
